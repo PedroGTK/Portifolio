@@ -1,0 +1,204 @@
+a{
+    color: black;
+    text-decoration: none;
+}
+body{
+    margin-left: 15%;
+    margin-right: 15%;
+}
+.container {
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 1fr;
+}
+#header {
+    font-family: Poppins;
+    font-size: 28px;
+    font-weight: 600;
+    line-height: 42px;
+    font-size: normal;
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+#menu{
+    list-style-type: none;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    font-family: poppins;
+    margin-top: 28px;
+   
+}
+#menu li{
+    display: inline-block;
+    margin-left: 20px;
+    
+}
+#buttonCTA{
+    background: #1F7CFF;
+    border-radius: 40px;
+    font-family: poppins;
+    font-size: 15px;
+    color: white;
+    padding: 10px 25px 10px 25px;
+    
+}
+#headerCTA{
+    font-family: poppins;
+}
+#headerCTA h1{
+    font-size: 45px;
+    margin-bottom: 5px;
+}
+#headerCTA p{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    font-size: 14px;
+}
+
+#headerIMG{
+    margin-left: 40px;
+}
+#headerIMG img{
+    width: 80%;
+    
+    
+}
+.headerLogo{
+    text-align: center;
+}
+#clients{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.headerClientText{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+h2.red{
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #F75C4E;
+    margin-bottom: 5px;
+    
+}
+h1.black{
+    font-family: Poppins;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 54px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.textCenter{
+    text-align: center;
+}
+.ajuda{
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 25px;
+}
+#services .textCenter h3{
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    margin-bottom: 0;
+}
+#services .textCenter p{
+    margin-top: 5px;
+    margin-bottom: 30px;
+    font-size: 14px;
+    font-family: Poppins;
+    margin-top: 0;
+}
+#services .textCenter img{
+    width: 50px;
+    height: 50px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+}
+#contact{
+    margin-top: 100px;
+    text-align: center;
+}
+#contactIMG {
+    width: 100%;
+    
+}
+#contactForm{
+    margin-left: 70px;
+    margin-top: 10%;
+    text-align: left;
+}
+#contactForm h1{
+    text-align: left;
+}
+#contactForm h2{
+    text-align: left;
+}
+#contactForm p{
+    text-align: left;
+    margin-top: 20px;
+}
+#contactForm input{
+    background-color: #F5F6FB;
+    border-radius: 50px;
+    font-family: Poppins;
+    font-size: 14px;
+   text-align: left;
+    color: #575455;
+    border: 0;
+    width:  100%;
+    padding: 15px 25px;
+    margin-bottom: 10px;
+}
+#contactForm button{
+    width: 180px;
+    height: 48px;
+    top: 1662px;
+    left: 813px;
+    border-radius: 50px;
+    background: #1F7CFF;
+    border: 0px;
+    color: white;
+    font-family: Poppins;
+    font-size: 16px;
+}
+#portfolio2{
+    margin-top: 130px;
+}
+#portfolio2 h1{
+    text-align: left;
+}
+#portfolio2 h2{
+    text-align: left;
+}
+.card img {
+width: 100%;
+}
+.card{
+    padding: 15px;
+    margin-top: 50px;
+}
